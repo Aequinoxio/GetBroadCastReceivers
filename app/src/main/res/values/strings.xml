@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Broadcast receivers</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtBroadcasts">Broadcasts</string>
+    <string name="txtReceivers">Receivers</string>
+    <string name="cerca_broadcast">Cerca broadcast</string>
+
+    <string name="action_about">Informazioni</string>
+    <string name="Autore">Gabriele Galluzzo</string>
+    <string name="descrizione">Vedo i receivers che sono stati registrati per ciacun broadcast.</string>
+
+</resources>
